@@ -4,13 +4,13 @@ Charlie
 I miei progetti
 ---------------
 
-* [Gratta e perdi](https://github.com/carlomartinucci/gratta)  
+* [Gratta e perdi](https://github.com/carlomartinucci/gratta) (2015-2016)  
     Perché i gratta e vinci sono una tassa statale sulla stupidità
 
 * [Ignite@Uqido, 20 maggio 2016](https://github.com/carlomartinucci/UqidoIgnite)  
     Illuminami, ma fai veloce. Il primo pitch di Spiegami.
 
-* [Template per Ignite](https://github.com/carlomartinucci/ignite_template)  
+* [Template per Ignite](https://github.com/carlomartinucci/ignite_template) (maggio 2016)  
     Il template dell'Ignite del 20 maggio, pronto per essere usato da chiunque.
 
 * [Ignite@Uqido, 20 luglio 2016](https://github.com/carlomartinucci/ignite-2016-7)  
@@ -19,16 +19,16 @@ I miei progetti
 * [Ignite@Uqido, 20 luglio 2016](https://github.com/carlomartinucci/ignite-2016-7-costi)  
     Ignite@Uqido della Costi. 8+1 cose sul web marketing che ho imparato dal mio matrimonio
 
-* [Tic tac toe](https://github.com/carlomartinucci/tic-tac-toe)  
+* [Tic tac toe](https://github.com/carlomartinucci/tic-tac-toe) (novembre 2016)  
     Tris. Il mio primo esperimento con React
 
-* [Spiegami - Referendum](https://github.com/carlomartinucci/spiegami-referendum)  
+* [Spiegami - Referendum](https://github.com/carlomartinucci/spiegami-referendum) (dicembre 2016)  
     Spiegami il Referendum. La prima implementazione di Spiegami, con React e MaterialUI.
 
-* [Gratta e perdi - reboot](https://github.com/carlomartinucci/gratta-react-redux)  
+* [Gratta e perdi - reboot](https://github.com/carlomartinucci/gratta-react-redux) (aprile 2017)  
     Perché i gratta e vinci sono sempre una tassa statale sulla stupidità, anche se lo fai con React e Redux.
 
-* [Text2Points](https://github.com/carlomartinucci/text2points)  
+* [Text2Points](https://github.com/carlomartinucci/text2points) (aprile 2017)  
     Prendi un testo e convertilo in una manciata di punti. React + localStorage + service-worker, una volta caricato funziona anche offline
 
 * [Ignite@Uqido, 28 maggio 2017](https://github.com/carlomartinucci/ignite20170528/)  
