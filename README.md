@@ -34,11 +34,20 @@ I miei progetti
 * [Ignite@Uqido, 28 maggio 2017](https://github.com/carlomartinucci/ignite20170528/)  
     internet di babele. vanilla js organizzato in stile mvc
 
-* Hello Agnese, 29 agosto 2017
+* Hello Agnese, 29 agosto 2017  
     Una piccola App per la mia lezione di logica ai precorsi per i test di ingresso di varie facoltà. React + Redux + sw + Firebase + MaterialUI, mobile & offline first.
 
 * [Date as Bool](https://github.com/carlomartinucci/date_as_bool/) (settembre 2017)  
     A simple Rails Gem to get both a datetime and a boolean behaviour from the same database column.
+
+
+
+In corso
+--------
+* Spiegami (Piattaforma, dal 2015)
+
+* Trova Relatori (App Rails, da luglio 2017)
+    
 
 
 Altre idee
