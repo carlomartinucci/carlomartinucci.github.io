@@ -40,6 +40,8 @@ I miei progetti
 * [Date as Bool](https://github.com/carlomartinucci/date_as_bool/) (settembre 2017)  
     A simple Rails Gem to get both a datetime and a boolean behaviour from the same database column.
 
+* [LaLista](https://github.com/carlomartinucci/lalista) (agosto - settembre 2017)
+    React Redux SW + Firebase Database & Functions web app for LaLista game, played in Uqido.
 
 
 In corso
