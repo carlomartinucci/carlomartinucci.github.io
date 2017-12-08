@@ -43,6 +43,9 @@ I miei progetti
 * [LaLista](https://github.com/carlomartinucci/lalista) (agosto - settembre 2017)
     React Redux SW + Firebase Database & Functions web app for LaLista game, played in Uqido.
 
+* [Robots on a Number Line](https://github.com/carlomartinucci/robot-line) (ottobre 2017)
+    Simple React implementation of a [XKCD Puzzle](http://wiki.xkcd.com/irc/Puzzles#Robots_on_a_number_line)
+
 
 In corso
 --------
